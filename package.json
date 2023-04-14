@@ -25,6 +25,7 @@
     "@babel/node": "^7.6.1",
     "@babel/preset-env": "^7.6.0",
     "@babel/register": "^7.6.0",
+    "@types/react-router-dom": "^5.3.3",
     "concurrently": "^4.0.1",
     "joi": "^14.3.1",
     "live-server": "^1.2.0",
